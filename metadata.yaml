@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41695'
     url: http://www.gutenberg.org/2009/agents/41695
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42451#Heroines-of-ServiceFletcher-Mary-Slessor-of-Calabar-Madame-Curie-Jane-Addams
 gutenberg_issued: '2013-04-01'
 gutenberg_type: Text
 identifiers:
