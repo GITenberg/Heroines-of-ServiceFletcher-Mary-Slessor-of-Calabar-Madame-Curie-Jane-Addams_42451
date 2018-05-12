@@ -1,0 +1,32 @@
+_repo: Heroines-of-ServiceFletcher-Mary-Slessor-of-Calabar-Madame-Curie-Jane-Addams_42451
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42451-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Parkman, Mary Rosetta
+    alias: Parkman, Mary R.
+    birthdate: 1875
+    deathdate: 1941
+    gutenberg_agent_id: '41695'
+    url: http://www.gutenberg.org/2009/agents/41695
+description: ''
+gutenberg_issued: '2013-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42451'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcsh 'Women -- United States -- Biography'
+tableOfContents: Mary Lyon -- Alice Freeman Palmer -- Clara Barton -- Frances E. Willard
+  -- Julia Ward Howe -- Anna Howard Shaw -- Mary Antin -- Alice C. Fletcher -- Mary
+  Slessor -- Madame Sklodowska Curie -- Jane Addams.
+title: "Heroines of Service\r\nMary Lyon, Alice Freeman Palmer, Clara Barton, Frances\
+  \ Willard, Julia Ward Howe, Anna Shaw, Mary Antin, Alice C. Fletcher, Mary Slessor\
+  \ of Calabar, Madame Curie, Jane Addams"
+url: http://www.gutenberg.org/ebooks/42451
